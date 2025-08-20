@@ -48,7 +48,11 @@ AOS Library – Animate on scroll
 📂 Project Structure
 📁 pulsex-landing-page
 │── index.html        # Main landing page
+
 │── i6.jpg            # Hero + feature image
+
 │── i7.jpg            # Feature image
+
 │── i8.jpg            # Feature image
+
 │── README.md         # Project documentation
