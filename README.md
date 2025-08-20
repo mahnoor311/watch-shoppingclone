@@ -46,7 +46,9 @@ JavaScript (Vanilla) – Scroll, navigation, interactive buttons
 AOS Library – Animate on scroll
 
 📂 Project Structure
+
 📁 pulsex-landing-page
+
 │── index.html        # Main landing page
 
 │── i6.jpg            # Hero + feature image
